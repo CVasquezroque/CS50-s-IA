@@ -55,4 +55,4 @@ This repository contains my assignments and work from the MOOC course CS50's Int
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-:heart: Made with :coffee: and :computer: by [Your Name]
+:heart: Made with :coffee: and :computer: by Carlos E. Vasquez
